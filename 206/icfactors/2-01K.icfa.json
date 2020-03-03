@@ -6,10 +6,62 @@
         "value": 1.0
     },
     "CDD": {
-        "error": 0.0,
-        "fit": "default",
-        "references": [],
-        "value": 1.02
+        "error": 0.0012626957557862304,
+        "fit": "Average",
+        "references": [
+            {
+                "exclude": "ok",
+                "record_id": "a-01-A-5044",
+                "uuid": "acd8edfc-cce7-4ff6-bcbf-f1327c10671b"
+            },
+            {
+                "exclude": "omit",
+                "record_id": "a-01-A-5045",
+                "uuid": "24dc7f70-a0d4-4c91-b215-86f14d1518cf"
+            },
+            {
+                "exclude": "omit",
+                "record_id": "a-01-A-5046",
+                "uuid": "2080c29c-dfc5-434f-8bb3-1d3f249b439d"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "a-01-A-5047",
+                "uuid": "bb607d26-15c0-4827-95f2-c821d3a1aef8"
+            },
+            {
+                "exclude": "omit",
+                "record_id": "a-01-A-5048",
+                "uuid": "7b767d07-e710-4c82-9744-cf51c894689d"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "a-01-A-5049",
+                "uuid": "91159b82-f91d-4a5b-875b-df8e47ac2197"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "a-01-A-5050",
+                "uuid": "24169ec5-7ca3-4f1d-a39c-944a24e377a5"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "a-01-A-5051",
+                "uuid": "21566997-b40f-4fb4-99fd-4437b2602737"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "a-01-A-5052",
+                "uuid": "3fe92e2f-498a-48e0-89c3-4810bb166c80"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "a-01-A-5053",
+                "uuid": "6815476b-1094-4edc-b79e-e6604df2ac12"
+            }
+        ],
+        "reviewed": true,
+        "value": 1.0282316798976485
     },
     "H1": {
         "error": 0.0,
